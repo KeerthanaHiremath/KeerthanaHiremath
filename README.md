@@ -28,5 +28,5 @@ I’m **Keerthana S R**, a Computer Science Engineering student specializing in 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/keerthana-s-r-ab7ba02b3)
 - 📧 Email: keerthanasr711@gmail.com  
 
-🌸 *Pronouns*: She/Her  
-⚡ *Fun fact*: I find joy in simplifying complex problems using code.
+🌸 **Pronouns**: She/Her  
+⚡ **Fun fact**: I find joy in simplifying complex problems using code.
