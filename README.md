@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I’m *Keerthana S R, a Computer Science Engineering student specializing in **Data Science* at PESITM, Shimoga.
+I’m **Keerthana S R**, a Computer Science Engineering student specializing in **Data Science** at PESITM, Shimoga.
 
 ---
 
@@ -20,9 +20,9 @@ I’m *Keerthana S R, a Computer Science Engineering student specializing in **D
 
 ---
 
-🌟 I believe in *learning by doing*. I enjoy building small but meaningful projects that solve real-life problems.
+🌟 I believe in **learning by doing**. I enjoy building small but meaningful projects that solve real-life problems.
 
-🤝 I’m always open to *collaboration*, learning from others, and joining innovative tech communities.  
+🤝 I’m always open to **collaboration**, learning from others, and joining innovative tech communities.  
 
 📫 Let’s connect:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/keerthana-s-r-ab7ba02b3)
